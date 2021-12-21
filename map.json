@@ -154,7 +154,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/umap.openstreetmap.fr\/de\/map\/anger-crottendorf_692221?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2003786#16\/51.3353\/12.4236"
+                 "value":"https:\/\/www.aboutsource.net"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -377,13 +377,13 @@
                      "fontfamily":"Bubblegum Sans",
                      "halign":"center",
                      "pixelsize":26,
-                     "text":"Karte",
+                     "text":"WEBSITE",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":91.4375,
-                 "x":1249.94791666667,
+                 "width":104.9375,
+                 "x":1242.94791666667,
                  "y":525.833333333333
                 }],
          "opacity":1,
