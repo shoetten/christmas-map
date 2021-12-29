@@ -154,7 +154,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/umap.openstreetmap.fr\/de\/map\/anger-crottendorf_692221?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2003786#16\/51.3353\/12.4236"
+                 "value":"https:\/\/umap.openstreetmap.fr\/en\/map\/merse-88b_697864?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
