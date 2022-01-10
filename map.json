@@ -526,41 +526,41 @@
          "name":"text",
          "objects":[
                 {
-                 "height":30.6666666666667,
+                 "height":21.9199466866593,
                  "id":2,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":"Bubblegum Sans",
+                     "fontfamily":"Press Start 2P",
                      "halign":"center",
-                     "pixelsize":26,
+                     "pixelsize":19,
                      "text":"Karte",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":60.1041666666667,
-                 "x":1266.61458333334,
-                 "y":525.166666666666
+                 "width":110.085423695281,
+                 "x":1242.24872053189,
+                 "y":532.663855220958
                 }, 
                 {
-                 "height":27,
+                 "height":40.1200799700113,
                  "id":3,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":"Bubblegum Sans",
-                     "pixelsize":27,
+                     "fontfamily":"Press Start 2P",
+                     "pixelsize":19,
                      "text":"Geschichte",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":108.104166666667,
-                 "x":280.28125,
-                 "y":527.166666666667
+                 "width":139.967218022409,
+                 "x":269.035467168562,
+                 "y":522.793306676663
                 }, 
                 {
                  "height":48.3333333333334,
@@ -569,17 +569,16 @@
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":"Bubblegum Sans",
+                     "fontfamily":"Press Start 2P",
                      "halign":"center",
-                     "pixelsize":21,
                      "text":"Hauskauf & Finanzen",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":107.437333333334,
-                 "x":1017.948,
-                 "y":837.5
+                 "width":138.05085326336,
+                 "x":1006.0774514557,
+                 "y":838.875234287142
                 }, 
                 {
                  "height":45.6666666666667,
@@ -588,16 +587,14 @@
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":"Bubblegum Sans",
-                     "halign":"center",
-                     "pixelsize":21,
+                     "fontfamily":"Press Start 2P",
                      "text":"Aktuelles Wohnen",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":82.7706666666666,
-                 "x":246.614666666667,
+                 "width":100.888872339539,
+                 "x":236.993649548086,
                  "y":805.833333333333
                 }, 
                 {
@@ -607,16 +604,15 @@
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":"Sans Serif",
-                     "pixelsize":19,
+                     "fontfamily":"Press Start 2P",
                      "text":"HaMo",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":57.7001515056851,
-                 "x":980.771316225166,
-                 "y":551.78914157191
+                 "width":66.4468714856926,
+                 "x":977.397956235162,
+                 "y":554.663438710483
                 }],
          "opacity":1,
          "type":"objectgroup",
