@@ -533,34 +533,33 @@
                  "text":
                     {
                      "fontfamily":"Press Start 2P",
-                     "halign":"center",
                      "pixelsize":19,
                      "text":"Karte",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":110.085423695281,
-                 "x":1242.24872053189,
+                 "width":96.9653437252696,
+                 "x":1250.12114337332,
                  "y":532.663855220958
                 }, 
                 {
-                 "height":40.1200799700113,
+                 "height":22.6266400099963,
                  "id":3,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
                      "fontfamily":"Press Start 2P",
-                     "pixelsize":19,
+                     "pixelsize":15,
                      "text":"Geschichte",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":139.967218022409,
-                 "x":269.035467168562,
-                 "y":522.793306676663
+                 "width":156.211126556709,
+                 "x":262.163044327128,
+                 "y":534.915260943813
                 }, 
                 {
                  "height":48.3333333333334,
@@ -578,24 +577,25 @@
                  "visible":true,
                  "width":138.05085326336,
                  "x":1006.0774514557,
-                 "y":838.875234287142
+                 "y":837.875234287142
                 }, 
                 {
-                 "height":45.6666666666667,
+                 "height":21.3008038652173,
                  "id":5,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
                      "fontfamily":"Press Start 2P",
-                     "text":"Aktuelles Wohnen",
+                     "pixelsize":13,
+                     "text":"Aktuelles",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":100.888872339539,
-                 "x":236.993649548086,
-                 "y":805.833333333333
+                 "width":121.5,
+                 "x":233,
+                 "y":809.458099046191
                 }, 
                 {
                  "height":19,
@@ -613,6 +613,24 @@
                  "width":66.4468714856926,
                  "x":977.397956235162,
                  "y":554.663438710483
+                }, 
+                {
+                 "height":21.3008,
+                 "id":7,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Press Start 2P",
+                     "pixelsize":13,
+                     "text":"Wohnen",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":121.506,
+                 "x":233,
+                 "y":833.284249506435
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -702,7 +720,7 @@
          "y":0
         }],
  "nextlayerid":52,
- "nextobjectid":7,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "properties":[
         {
